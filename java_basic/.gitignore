@@ -1,0 +1,8 @@
+*.DS_Store
+*.xml
+*.log
+*.lib
+*.class
+.idea
+out
+*.iml

@@ -1,0 +1,6 @@
+spot/LimitOrder.class
+spot/UtilFunctions.class
+spot/User.class
+spot/MarketOrder.class
+spot/SpotOrder.class
+spot/StopLimitOrder.class

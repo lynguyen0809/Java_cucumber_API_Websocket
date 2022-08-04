@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fadf6793-a011-4b9a-8f24-b23dd1e11252" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eqonex/rest/RESTClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eqonex/wss/WssClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spot/LimitOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spot/MarketOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spot/SpotOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spot/StopLimitOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spot/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spot/UtilFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/eqonex/trading/ApiTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/eqonex/trading/_support/GlobalResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/eqonex/trading/features/ConnectWss.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/eqonex/trading/features/Logon.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/eqonex/trading/features/PlaceARejectOrder.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/eqonex/trading/features/SpotOrder.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/eqonex/trading/object/ISignatureGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/eqonex/trading/object/OrderBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/eqonex/trading/object/TradeUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/eqonex/trading/steps/ConnectWssSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/eqonex/trading/steps/LogonSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/eqonex/trading/steps/PlaceARejectOrderSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/eqonex/trading/steps/PlaceSpotOrderSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/eqonex/trading/steps/PrepareLogonUserSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/eqonex/trading/steps/_BaseStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/eqonex/rest/RESTClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spot/LimitOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spot/MarketOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spot/SpotOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spot/StopLimitOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spot/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spot/UtilFunctions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s01/My_Stuff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s03/oop/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s03/oop/BirdCu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s03/oop/FishHeo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s03/oop/IFlyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s03/oop/IRunable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s03/oop/ISwimable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s03/oop/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s03/oop/StandardAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s03/tests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s04/oop/SpotOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s04/oop/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s04/tests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven_project/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven_project/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven_project/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven_project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven_project/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven_project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven_project/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ABY4zM8xVd0MESJDBmMbogNUQS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/eqonex/placeorder/features" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/eqonex/spot/feature" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn compile" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.ApiTestRunner">
+    <configuration name="WssClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eqonex.wss.WssClient" />
+      <module name="lynttcucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eqonex.wss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Login successfully without 2FA" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/com/eqonex/trading/features/Logon.feature" />
+      <option name="GLUE" value="com.eqonex.trading.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="lynttcucumber" />
+      <option name="NAME_FILTER" value="^Login successfully without 2FA$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Login successfully without 2FA$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login successfully without 2FA" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Logon with" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/com/eqonex/trading/features/Logon.feature" />
+      <option name="GLUE" value="com.eqonex.trading.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="lynttcucumber" />
+      <option name="NAME_FILTER" value="^Logon with$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Logon with$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Logon with" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: as a normal user, I can place a Market order so that I can see my balances updated correctly" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/com/eqonex/trading/features/SpotOrder.feature" />
+      <option name="GLUE" value="com.eqonex.trading.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="lynttcucumber" />
+      <option name="NAME_FILTER" value="^as a normal user\, I can place a Market order so that I can see my balances updated correctly$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^as a normal user\, I can place a Market order so that I can see my balances updated correctly$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: as a normal user, I can place a Market order so that I can see my balances updated correctly" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lynttcucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eqonex.trading.steps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="spot" />
+      <option name="MAIN_CLASS_NAME" value="com.eqonex.trading.ApiTestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ApiTestRunner" />
+        <item itemvalue="Application.WssClient" />
+        <item itemvalue="Cucumber Java.Scenario: as a normal user, I can place a Market order so that I can see my balances updated correctly" />
+        <item itemvalue="Cucumber Java.Scenario: Login successfully without 2FA" />
+        <item itemvalue="Cucumber Java.Scenario: Logon with" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fadf6793-a011-4b9a-8f24-b23dd1e11252" name="Changes" comment="" />
+      <created>1654484265414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654484265414</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

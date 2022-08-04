@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32fefdfa-4ef4-4dfc-a7fd-ef2c6fba334e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/main/java/com/eqonex/rest/RESTClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/main/java/com/eqonex/wss/WssClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/main/java/spot/LimitOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/main/java/spot/MarketOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/main/java/spot/SpotOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/main/java/spot/StopLimitOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/main/java/spot/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/main/java/spot/UtilFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/test/java/com/eqonex/trading/ApiTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/test/java/com/eqonex/trading/_support/GlobalResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/test/java/com/eqonex/trading/features/ConnectWss.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/test/java/com/eqonex/trading/features/Logon.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/test/java/com/eqonex/trading/features/PlaceARejectOrder.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/test/java/com/eqonex/trading/features/SpotOrder.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/test/java/com/eqonex/trading/object/ISignatureGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/test/java/com/eqonex/trading/object/OrderBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/test/java/com/eqonex/trading/object/TradeUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/test/java/com/eqonex/trading/steps/ConnectWssSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/test/java/com/eqonex/trading/steps/LogonSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/test/java/com/eqonex/trading/steps/PlaceARejectOrderSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/test/java/com/eqonex/trading/steps/PlaceSpotOrderSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/test/java/com/eqonex/trading/steps/PrepareLogonUserSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/src/test/java/com/eqonex/trading/steps/_BaseStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/target/classes/com/eqonex/rest/RESTClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/target/classes/spot/LimitOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/target/classes/spot/MarketOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/target/classes/spot/SpotOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/target/classes/spot/StopLimitOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/target/classes/spot/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/target/classes/spot/UtilFunctions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cucumber_project/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s01/My_Stuff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s03/oop/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s03/oop/BirdCu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s03/oop/FishHeo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s03/oop/IFlyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s03/oop/IRunable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s03/oop/ISwimable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s03/oop/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s03/oop/StandardAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s03/tests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s04/oop/SpotOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s04/oop/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_basic/src/sessions/s04/tests/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29MsW2ZHdaMx99G5OdRXaftiGKs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="TestNG./Users/lynguyen/Documents/07_Automation/autotraining-hw/lynguyen/maven_project/testng.xml">
+    <configuration name="TestMath.testDevideWithException" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eqonex.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.eqonex.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.eqonex.testng.TestMath" />
+      <option name="METHOD_NAME" value="testDevideWithException" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMath.testMultiply" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eqonex.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.eqonex.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.eqonex.testng.TestMath" />
+      <option name="METHOD_NAME" value="testMultiply" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMath.testSubtract" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eqonex.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.eqonex.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.eqonex.testng.TestMath" />
+      <option name="METHOD_NAME" value="testSubtract" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMath.testSum" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eqonex.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.eqonex.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.eqonex.testng.TestMath" />
+      <option name="METHOD_NAME" value="testSum" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/lynguyen/Documents/07_Automation/autotraining-hw/lynguyen/maven_project/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testng" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/lynguyen/Documents/07_Automation/autotraining-hw/lynguyen/maven_project/testng.xml" />
+        <item itemvalue="TestNG.TestMath.testDevideWithException" />
+        <item itemvalue="TestNG.TestMath.testMultiply" />
+        <item itemvalue="TestNG.TestMath.testSubtract" />
+        <item itemvalue="TestNG.TestMath.testSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32fefdfa-4ef4-4dfc-a7fd-ef2c6fba334e" name="Changes" comment="" />
+      <created>1652934320867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652934320867</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
